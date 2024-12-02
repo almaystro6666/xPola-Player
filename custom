@@ -1,2 +1,3 @@
-EXTINF:-1 group-title="tv. vox", vox
-https://s6.hopslan.com/voxx1/index.m3u8
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=3840x2160
+EXTINF:-1 group-title="tv. vox", vox https://s6.hopslan.com/voxx1/index.m3u8
