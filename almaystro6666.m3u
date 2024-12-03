@@ -16,3 +16,14 @@ https://raw.githubusercontent.com/almaystro6666/xPola-Player/main/almaystro6666.
 #EXTINF:-1 group-title="t", y
 https://raw.githubusercontent.com/almaystro6666/xPola-Player/main/almaystro6666.m3u
 https://raw.githubusercontent.com/almaystro6666/xPola-Player/main/almaystro6666.m3u
+#EXTINF:-1 group-title="قنوات سطنة عمان" tvg-logo="https://i.postimg.cc/TY8RQZ8S/Saghhjjdegh.jpg", omantv
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/playlist.m3u8?stime=20241126013305&etime=20241203075945&token=077809a22b712d53849c1
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq2H9vfF/images-1.jpg", omsport
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/playlist.m3u8?stime=20241126013439&etime=20241203080119&token=094e97077a6b0d482a1d2
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fR8Q4PFM/images.png", omcultural
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8?stime=20241126013834&etime=20241203080514&token=0a03ffbbc5155bac5fbf1
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0V9cCy5/CCLlh-Ocn-400x400.jpg", omlive
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/playlist.m3u8?stime=20241126013951&etime=20241203080631&token=04b3d9eeb44fae7d5c3a3
